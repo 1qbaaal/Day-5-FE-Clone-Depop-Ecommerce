@@ -1,0 +1,450 @@
+{
+  "users": [
+    {
+      "id": "6162",
+      "firstName": "Muhammad",
+      "lastName": "Iqbal",
+      "email": "muhammadiqbalips2@gmail.com",
+      "username": "miq.bal",
+      "password": "qwoieyqoiwyeioqwe"
+    },
+    {
+      "id": "f6a6",
+      "firstName": "Maman",
+      "lastName": "Resing",
+      "email": "maman.resing@gmail.com",
+      "username": "man.res",
+      "password": "1234567"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "T-shirt"
+    },
+    {
+      "id": "2",
+      "name": "Hoodie"
+    },
+    {
+      "id": "3",
+      "name": "Shoes"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "nameProduct": "Public Culture - Birds T-shirt",
+      "categoryId": 1,
+      "price": 185000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/9/22/d4280e73-6815-4098-9547-4478fbb9f26c.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nameProduct": "Public Culture - Best Time T-shirt",
+      "categoryId": 1,
+      "price": 185000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/9/26/c0734f71-44f8-49af-b5ba-8ff251f8f6dd.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#000000",
+        "#000080"
+      ]
+    },
+    {
+      "id": "3",
+      "nameProduct": "Public-Culture Living-tee T-shirt",
+      "categoryId": 1,
+      "price": 185000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/27/acd11a9a-518f-4537-9fa0-54d9a1f82d12.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#000000",
+        "#800080"
+      ]
+    },
+    {
+      "id": "4",
+      "nameProduct": "ErigoxDeadSquad T-shirt",
+      "categoryId": 1,
+      "price": 185000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2023/10/9/3b10208d-14fc-496d-ba33-9aea9337b13b.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000000"
+      ]
+    },
+    {
+      "id": "5",
+      "nameProduct": "Erigo T-shirt",
+      "categoryId": 1,
+      "price": 185000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2023/11/26/358960f4-dac9-4372-8af9-0e0eace5574c.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#000000",
+        "#979A9A"
+      ]
+    },
+    {
+      "id": "6",
+      "nameProduct": "Insurgent Club Olive Hoodie",
+      "categoryId": 2,
+      "price": 260000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2023/12/25/4d9d26f5-ca53-4120-b78c-e49d592cb937.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#808000"
+      ]
+    },
+    {
+      "id": "7",
+      "nameProduct": "Insurgent Club Greek Hoodie",
+      "categoryId": 2,
+      "price": 260000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2023/11/17/2198ca58-c0c8-4062-b920-b66406a3c5b9.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000080",
+        "#000000",
+        "#808080"
+      ]
+    },
+    {
+      "id": "8",
+      "nameProduct": "Insurgent Club Riot Hoodie",
+      "categoryId": 2,
+      "price": 260000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2023/1/20/640d2e3e-8fd5-4392-9d81-9786470b1b85.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#000000",
+        "#800080"
+      ]
+    },
+    {
+      "id": "9",
+      "nameProduct": "Insurgent Club Misty Hoodie",
+      "categoryId": 2,
+      "price": 260000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2022/4/20/ecd60666-223e-4397-9496-2fef3db19615.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#BCC2C2"
+      ]
+    },
+    {
+      "id": "10",
+      "nameProduct": "Insurgent Club Hoodie Black",
+      "categoryId": 2,
+      "price": 260000,
+      "image": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/4/28/b7d2e578-de07-4b89-807f-162f8aa11d17.jpg",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000000"
+      ]
+    },
+    {
+      "id": "11",
+      "nameProduct": "Adidas Nizza Shoes",
+      "categoryId": 3,
+      "price": 950000,
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/21/1b3c3722-457f-4dfa-b402-2ef0be76d72c.jpg",
+      "sizes": [
+        {
+          "size": 39,
+          "stock": 5
+        },
+        {
+          "size": 40,
+          "stock": 5
+        },
+        {
+          "size": 41,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000000",
+        "#964B00",
+        "#808000"
+      ]
+    },
+    {
+      "id": "12",
+      "nameProduct": "Vans Vault Slip On OG BW",
+      "categoryId": 3,
+      "price": 1499000,
+      "image": "https://images.tokopedia.net/img/cache/700/attachment/2019/5/29/155912430198746/155912430198746_3529ceb8-7c01-44ff-afac-2ba4b4d63e02.png",
+      "sizes": [
+        {
+          "size": 40,
+          "stock": 5
+        },
+        {
+          "size": 41,
+          "stock": 5
+        },
+        {
+          "size": 42,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#000000"
+      ]
+    },
+    {
+      "id": "13",
+      "nameProduct": "Nike Sb Dunk Yuto Horigome",
+      "categoryId": 3,
+      "price": 4000000,
+      "image": "https://senikersku.com/wp-content/uploads/2023/09/Yuto-Horigome-x-Dunk-Low-SB-1.png",
+      "sizes": [
+        {
+          "size": 39,
+          "stock": 5
+        },
+        {
+          "size": 41,
+          "stock": 5
+        },
+        {
+          "size": 44,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#FFFFFFFF",
+        "#7c828a",
+        "#61463d"
+      ]
+    },
+    {
+      "id": "14",
+      "nameProduct": "NB 990 v5",
+      "categoryId": 3,
+      "price": 2200000,
+      "image": "https://filebroker-cdn.lazada.co.id/kf/S04faaed418b4454a97fc0f70937bad85f.jpg",
+      "sizes": [
+        {
+          "size": 39,
+          "stock": 5
+        },
+        {
+          "size": 40,
+          "stock": 5
+        },
+        {
+          "size": 41,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000000",
+        "#808080"
+      ]
+    },
+    {
+      "id": "15",
+      "nameProduct": "Converse Golf Le Fleur",
+      "categoryId": 3,
+      "price": 1950000,
+      "image": "https://media.karousell.com/media/photos/products/2023/12/11/converse_golf_le_fleur__size_4_1702328326_1744b8cc.jpg",
+      "sizes": [
+        {
+          "size": 41,
+          "stock": 5
+        },
+        {
+          "size": 42,
+          "stock": 5
+        },
+        {
+          "size": 42,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#bed891",
+        "#9fc2cb",
+        "#cebbaa"
+      ]
+    },
+    {
+      "id": "16",
+      "nameProduct": "Compass x NHBD",
+      "categoryId": 3,
+      "price": 1700000,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F09%2Fofficial-images-velocity-hasil-kolaborasi-compass-dan-neighborhood-0002.jpg?cbr=1&q=90",
+      "sizes": [
+        {
+          "size": 39,
+          "stock": 5
+        },
+        {
+          "size": 40,
+          "stock": 5
+        },
+        {
+          "size": 41,
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000000",
+        "#808080"
+      ]
+    }
+  ],
+  "carts": [
+    {
+      "id": "d17d",
+      "userId": "f6a6",
+      "productId": "12",
+      "quantity": 5
+    },
+    {
+      "id": "c5aa",
+      "userId": "f6a6",
+      "productId": "1",
+      "quantity": 1
+    }
+  ]
+}
